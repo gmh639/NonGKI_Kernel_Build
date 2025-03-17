@@ -1,4 +1,4 @@
-name: Build Kernel Template (Cannot be used for compilation directly)
+name: Build Kernel LGG8
 on:
   workflow_call:
   workflow_dispatch:
